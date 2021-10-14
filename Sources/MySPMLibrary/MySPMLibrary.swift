@@ -7,4 +7,7 @@ public struct MySPMLibrary {
     public func helloWorldMessage() -> String {
         text
     }
+    func internalFunction() {
+        
+    }
 }
